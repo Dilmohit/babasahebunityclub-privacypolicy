@@ -289,7 +289,4 @@ If you have any questions about this Privacy Policy, You can contact us:
 
   * By email: babasahebunityclub@gmail.com
 
-  * By visiting this page on our website:
-    https://www.github.com/dilmohit/babasahebunityclub-privacypolicy
-
 
