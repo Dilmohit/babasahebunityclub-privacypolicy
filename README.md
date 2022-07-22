@@ -40,10 +40,9 @@ For the purposes of this Privacy Policy:
     by You on any electronic device, named BabaSahebUnityClub
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to BabaSahebUnityClub, Vill.Arianwala, P/o Saidowal,
-    Distt. Kapurthala, Punjab, India.
+    Agreement) refers to BabaSahebUnityClub, Punjab-India.
 
-  * Country refers to: Punjab, India
+  * Country refers to: Punjab-India
 
   * Device means any device that can access the Service such as a computer, a
     cellphone or a digital tablet.
